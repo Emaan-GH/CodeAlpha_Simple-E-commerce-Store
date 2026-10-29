@@ -6,6 +6,6 @@ Frontend: HTML, CSS, JavaScript | Backend: Express.js | Database: SQLite (built 
 2. Open this folder in a terminal
 3. Run: npm install
 4. Run: npm start
-5. Open http://localhost:3000
+5. Open http://localhost:2000
 
 Product images live in public/img/ (product1.jpg ... product8.jpg, hero.jpg)
